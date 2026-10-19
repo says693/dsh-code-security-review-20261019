@@ -1,0 +1,14 @@
+{
+  "queried_utc": "2026-10-19T11:25:58.539189+00:00",
+  "bounty_query": "repo:FuRongJun-1999/dsh-bounty \"dsh-code-security\"",
+  "count": 6,
+  "incomplete_results": false,
+  "own_submission_count": 0,
+  "workflow_blob": "15658d890c80e559c4f41918171945ffe27dd874",
+  "compared_reports": [
+    984,
+    1001
+  ],
+  "compared_upstream_issue": 1,
+  "conclusion": "Existing reports lack live host GUI/native engine validation; submit distinct independent reproduction, no new product bug claim."
+}
